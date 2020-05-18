@@ -8,13 +8,13 @@ NeuroStartUp - динамически развивающийся стартап,
 
 ### JavaScript:
 
-...
+...javascript
 <script src="https://localhost/neuro.sdk.min.js"></script>
 ...
 
 ### Java (Maven):
 
-...
+...xml
 <dependency>
   <groupId>neuro</groupId>
   <artifactId>sdk</artifactId>
